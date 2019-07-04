@@ -13,5 +13,6 @@ int main(int argc, char *argv[])
     pop(&stack,&reval);
 
     printf("%d\n",reval);
+    printf("this is remote branch example.\n");
     return 0;
 }
